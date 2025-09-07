@@ -101,10 +101,7 @@ Bot: “✅ Connection request sent to mentor@company.com
 
 ## 📌 Roadmap
 
-Add multiple filters (skill + department).
-
-Add Slack/Email notification integration.
-
-Add support for approving/declining mentor requests.
-
-Deploy Flowise chatbot as a web widget.
+- Add multiple filters (skill + department).
+- Add Slack/Email notification integration.
+- Add support for approving/declining mentor requests.
+- Deploy Flowise chatbot as a web widget.
