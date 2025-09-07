@@ -1,0 +1,21 @@
+﻿employeeID,name,role,department,skills,experience_level,availability
+1,Alice Johnson,Data Analyst,IT,"SQL, Excel, Data Visualization",Junior,Available
+2,Bob Smith,Software Engineer,IT,"Python, Git, SQL",Senior,Not available
+3,Carol Lee,Compliance Officer,Risk & Legal,"Compliance, Risk Management",Pro,Available
+4,Daniel Green,HR Specialist,HR,"Communication, Conflict Resolution",Junior,Available
+5,Eva Brown,Product Manager,Operations,"Project Management, Banking Operations",Senior,Not available
+6,Frank White,Risk Analyst,Risk & Legal,"Risk Analysis, Financial Modeling",Junior,Available
+7,Grace Miller,SQL Developer,IT,"SQL, Databases, Git",Pro,Available
+8,Henry Wilson,Customer Advisor,Customer Ops,"Customer Service, Communication",Junior,Not available
+9,Irene Davis,Data Scientist,IT,"Python, R, Machine Learning",Senior,Available
+10,Jack Martin,Finance Analyst,Finance,"Excel, Financial Modeling, Reporting",Junior,Available
+11,Kelly Thomas,Training Manager,HR,"Mentoring, Leadership, Coaching",Pro,Not available
+12,Liam Anderson,Backend Developer,IT,"Python, APIs, SQL",Senior,Available
+13,Mia Robinson,Business Analyst,Operations,"Process Optimization, Reporting",Junior,Available
+14,Noah Clark,Risk Manager,Risk & Legal,"Risk Management, Compliance",Pro,Not available
+15,Olivia Lewis,HR Manager,HR,"HR Policies, Mentoring, Communication",Senior,Available
+16,Paul Walker,Automation Engineer,IT,"n8n, APIs, Databases",Junior,Available
+17,Quinn Hall,Investment Advisor,Finance,"Investment, Wealth Management",Senior,Not available
+18,Ruby Allen,UX Designer,IT,"Design, Creativity, Collaboration",Junior,Available
+19,Sam Young,DevOps Engineer,IT,"Git, Automation, Databases",Senior,Not available
+20,Tina Scott,Project Coordinator,Operations,"Project Management, Communication",Junior,Available

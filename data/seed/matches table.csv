@@ -1,0 +1,6 @@
+matchID,matched_skill,status,mentee_email,mentor_email,mentee_id,mentor_id
+1,Python,Pending,DanielGreen@gmail.com,BobSmith@gmail.com,1,1
+2,Data Visualization,Pending,CarolLee@gmail.com,bedada@gmail.com,1,1
+3,JavaScript,Pending,fikirte.desta@example.com,abebe.bekele@example.com,1,1
+1,Python,Pending,fikirte.desta@example.com,AliceJohnson@gmail.com,0,0
+1,Python,Pending,fikirte.desta@example.com,AliceJohnson@gmail.com,0,0
